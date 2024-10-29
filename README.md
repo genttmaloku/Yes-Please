@@ -8,6 +8,7 @@ Kontakt: contact@gentmaloku.live
 
 Info: info@gentmaloku.live
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Yes Please 🍔 is a project developed as a digital menu for a fast-food restaurant. This application 📱 provides customers with quick and easy access to the menu, helping them select the items they want. The app is designed with a simple and intuitive interface to accommodate the needs of both customers and staff.
 
