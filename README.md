@@ -5,6 +5,7 @@ Yes Please 🍔 është një projekt për një menu digjitale të krijuar për n
 📧 Për më shumë informata:
 
 Kontakt: contact@gentmaloku.live
+
 Info: info@gentmaloku.live
 
 
@@ -13,4 +14,5 @@ Yes Please 🍔 is a project developed as a digital menu for a fast-food restaur
 📧 For more information:
 
 Contact: contact@gentmaloku.live
+
 Info: info@gentmaloku.live
